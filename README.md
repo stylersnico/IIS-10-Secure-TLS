@@ -5,18 +5,18 @@ Secure TLS config for IIS 10
 Profiles for IISCrypto to get A or A+ grade on SSLLabs. Support for TLS 1.0 or 1.2.
 Copyleft (C) Nicolas Simond - 2016
 
-This script is free software: you can redistribute it and/or modify
+Theses profiles are free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
 
-This script is distributed in the hope that it will be useful,
+Theses profiles are distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with this script.  If not, see <http://www.gnu.org/licenses/gpl.txt>
+along with theses profiles.  If not, see <http://www.gnu.org/licenses/gpl.txt>
 
 ##About this repository
 Profiles for IISCrypto to get A or A+ grade on SSLLabs.
