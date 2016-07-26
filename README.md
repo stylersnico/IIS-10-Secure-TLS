@@ -3,6 +3,7 @@ Secure TLS config for IIS 10
 
 ##License
 Profiles for IISCrypto to get A or A+ grade on SSLLabs. Support for TLS 1.0 or 1.2.
+
 Copyleft (C) Nicolas Simond - 2016
 
 Theses profiles are free software: you can redistribute it and/or modify
